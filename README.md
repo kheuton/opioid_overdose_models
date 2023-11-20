@@ -12,7 +12,7 @@ Massachusetts data is unable to be shared, but our cleaning scripts are included
 ## Models
 
 ### Simple Python Models
-Most models are located in the `experiment-runner` directory, and running `recreate_table.py` will re-create the results from Table 1
+Most models are located in the `experiment-runner` directory, and running `recreate_table.py` will re-create the results from Tables 1 & 2
 
 
 ### Other models
